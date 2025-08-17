@@ -1,1 +1,1 @@
-online college website
+College Registration System
